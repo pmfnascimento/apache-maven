@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>more-information</artifactId>
+    <groupId>org.maven</groupId>
+    <version>1.0.0</version>
+
+    <packaging>jar</packaging>
+
+    <name>Learning Maven Examples</name>
+    <description>This is a project to demostrate maven principles</description>
+    <url>http://course.maven.org</url>
+
+    <organization>
+        <name>Apache Org</name>
+        <url>http://course.maven.org</url>
+    </organization>
+
+    <licenses>
+        <license>
+            <name>Apache Licence</name>
+            <url>http://course.maven.org</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Oscar Kali</name>
+            <email>oscar@email.com</email>
+        </developer>
+    </developers>
+</project>
